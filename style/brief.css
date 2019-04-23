@@ -1,0 +1,49 @@
+.menu {
+    display: block;
+    width: 983px;
+    margin: 0 auto 30px;
+}
+
+
+.menu ul {
+    padding: 20px 0;
+    background: #68ecc8;
+}
+
+.menu a {
+    padding: 16px;
+    background: #9db1ac;
+    border-right: 1px solid #b19891;
+    color: #126925;
+}
+
+.menu a:hover {
+    background: #b19891;
+}
+
+.menu li {
+    display: inline;
+}
+
+body {
+    background-image: url("../images/attractive-beautiful-beauty-2108932.jpg");
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.form li {
+    font-size: 14pt;
+    text-decoration-style: solid;
+    text-shadow: 2px 2px 4px #0900b4;
+    }
+
+.form li>ol {
+    color:red;
+}
+
+#submit {
+    font-size: 14pt;
+    background-color: #b19891;
+    } 
